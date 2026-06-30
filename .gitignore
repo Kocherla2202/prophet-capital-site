@@ -1,0 +1,9 @@
+# Local preview / IDE config (contains machine-specific absolute paths)
+.claude/
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+.vscode/
